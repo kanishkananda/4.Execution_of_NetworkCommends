@@ -27,6 +27,37 @@ This commands includes
 <BR>
 
 ## Output
+## Tasklist:
+
+<img width="1014" height="1009" alt="Screenshot 2026-05-29 143728" src="https://github.com/user-attachments/assets/eb65e7c3-3084-4578-9f3a-dbfc164bc659" />
+
+## Arp:
+
+<img width="755" height="276" alt="Screenshot 2026-05-29 143603" src="https://github.com/user-attachments/assets/239e86a4-51c8-4b06-90d1-4514e1fa0e8b" />
+
+## Getmac:
+
+<img width="1024" height="156" alt="Screenshot 2026-05-29 143506" src="https://github.com/user-attachments/assets/9dbd24af-47b5-4243-9fa8-002630018cf8" />
+
+## nslookup:
+
+<img width="499" height="147" alt="Screenshot 2026-05-29 143436" src="https://github.com/user-attachments/assets/148ebb3c-e0bd-4f09-894e-9e843f93b68f" />
+
+## Tracert:
+
+<img width="1089" height="287" alt="Screenshot 2026-05-29 143405" src="https://github.com/user-attachments/assets/bc9bc6dd-a8f7-4fbd-8f41-190529c76c12" />
+
+## Ping:
+
+<img width="927" height="312" alt="Screenshot 2026-05-29 143333" src="https://github.com/user-attachments/assets/6caebdf7-013f-457b-838a-7b86cd2902c8" />
+
+## Ipconfig:
+
+<img width="1030" height="585" alt="Screenshot 2026-05-29 143256" src="https://github.com/user-attachments/assets/0a88ec5c-6712-4d0d-83ec-fa4d8c0c959e" />
+
+## netstat:
+
+<img width="1154" height="970" alt="Screenshot 2026-05-29 143214" src="https://github.com/user-attachments/assets/bfd1eac3-93dd-4c74-88b7-8a01ddfab847" />
 
 ## Result
 Thus Execution of Network commands Performed 
