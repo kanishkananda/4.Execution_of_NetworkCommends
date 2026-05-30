@@ -55,9 +55,5 @@ This commands includes
 
 <img width="1030" height="585" alt="Screenshot 2026-05-29 143256" src="https://github.com/user-attachments/assets/0a88ec5c-6712-4d0d-83ec-fa4d8c0c959e" />
 
-## netstat:
-
-<img width="1154" height="970" alt="Screenshot 2026-05-29 143214" src="https://github.com/user-attachments/assets/bfd1eac3-93dd-4c74-88b7-8a01ddfab847" />
-
 ## Result
 Thus Execution of Network commands Performed 
